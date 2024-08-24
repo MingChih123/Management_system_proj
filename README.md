@@ -9,6 +9,8 @@
 [詳細說明簡報](https://github.com/MingChih123/Management_system_proj/blob/main/%E6%95%99%E5%AE%A4%E7%AE%A1%E7%90%86%E8%88%87%E5%99%A8%E6%9D%90%E5%80%9F%E7%94%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1.pdf)  
 
 ##  教室管理與器材借用管理系統
+## 介紹
+這是一個教室物品借用系統，?????????????????
 ### 資料庫說明
 ![image](https://github.com/user-attachments/assets/42b157ca-b80e-43c4-8422-85f1fc68f328)  
 ### 使用套件
